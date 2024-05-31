@@ -1,0 +1,3 @@
+[submodule "cocoblog/themes/PaperMod"]
+	path = cocoblog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
